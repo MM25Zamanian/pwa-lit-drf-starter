@@ -5,7 +5,7 @@
 [![Built with pwa-lit-drf-starter](https://img.shields.io/badge/built%20with-pwa--lit--template-blue)](https://github.com/mm25zamanian/pwa-lit-drf-starter 'Built with 
 pwa-lit-drf-starter')
 
-# https://github.com/mm25zamanian/pwa-lit-drf-starter/
+# pwa-lit-drf-starter
 
 > [Getting started](#getting-started) | [Build for production](#build-for-production) | [Create a new page](#create-a-new-page) | [Environment configuration](#environment-configuration) | [Service worker](#service-worker) | [Browser support](#browser-support)
 
