@@ -2,10 +2,10 @@
 >
 > This project is currently in development.
 
-[![CI](https://github.com/IBM/pwa-lit-template/workflows/CI/badge.svg)](https://github.com/IBM/pwa-lit-template/actions)
-[![Built with pwa-lit-template](https://img.shields.io/badge/built%20with-pwa--lit--template-blue)](https://github.com/IBM/pwa-lit-template 'Built with pwa-lit-template')
+[![Built with pwa-lit-drf-starter](https://img.shields.io/badge/built%20with-pwa--lit--template-blue)](https://github.com/mm25zamanian/pwa-lit-drf-starter 'Built with 
+pwa-lit-drf-starter')
 
-# pwa-lit-template
+# https://github.com/mm25zamanian/pwa-lit-drf-starter/
 
 > [Getting started](#getting-started) | [Build for production](#build-for-production) | [Create a new page](#create-a-new-page) | [Environment configuration](#environment-configuration) | [Service worker](#service-worker) | [Browser support](#browser-support)
 
@@ -18,8 +18,6 @@ This project helps you to build Progressive Web Applications following the moder
 - A development server with auto-reload to serve the application without bundling with [`@web/dev-server`](https://modern-web.dev/docs/dev-server/overview/).
 - Simple build flow thanks to [Rollup](https://rollupjs.org) and [`@open-wc/building-rollup`](https://open-wc.org/docs/building/rollup/) initial configuration.
 - Easy deployment over to [prpl-server](https://github.com/Polymer/prpl-server) or any static hosting.
-
-Check out [our roadmap](https://github.com/IBM/pwa-lit-template/projects/1) to get informed of the latest features released and the upcoming ones.
 
 ## Getting started
 
