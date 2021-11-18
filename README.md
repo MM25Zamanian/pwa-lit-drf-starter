@@ -29,13 +29,13 @@ Furthermore, this project is built on [TypeScript](https://www.typescriptlang.or
 
 ### Install the dependencies
 
-    npm install
+    yarn
 
 ### Start the development server
 
 This command serves the app at `http://localhost:8000`:
 
-    npm start
+    yarn start
 
 ### Project structure
 
@@ -81,7 +81,7 @@ This command serves the app at `http://localhost:8000`:
 
 This command use Rollup to build an optimized version of the application for production:
 
-    npm run build
+    yarn build
 
 It has two outputs: in addition to outputting a regular build, it outputs a legacy build which is compatible with older browsers down to IE11.
 
