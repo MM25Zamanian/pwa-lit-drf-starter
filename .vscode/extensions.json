@@ -3,6 +3,10 @@
     "dbaeumer.vscode-eslint",
     "esbenp.prettier-vscode",
     "runem.lit-plugin",
-    "stylelint.vscode-stylelint"
+    "stylelint.vscode-stylelint",
+    "ms-python.python",
+    "thebarkman.vscode-djaneiro",
+    "maxchamps.django-commands",
+    "sid200026.django-snippets"
   ]
 }
