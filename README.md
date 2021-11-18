@@ -2,8 +2,7 @@
 >
 > This project is currently in development.
 
-[![Built with pwa-lit-drf-starter](https://img.shields.io/badge/built%20with-pwa--lit--template-blue)](https://github.com/mm25zamanian/pwa-lit-drf-starter 'Built with 
-pwa-lit-drf-starter')
+[![Built with pwa-lit-drf-starter](https://img.shields.io/badge/built%20with-pwa--lit--template-blue)](https://github.com/mm25zamanian/pwa-lit-drf-starter 'Built with pwa-lit-drf-starter')
 
 # pwa-lit-drf-starter
 
